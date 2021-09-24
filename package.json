@@ -1,0 +1,15 @@
+{
+  "name": "ChallengeCOR",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "Pablo Martinez",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon start app.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
